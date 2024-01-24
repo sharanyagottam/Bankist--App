@@ -8,8 +8,8 @@ I] HOW TO ACCESS USERNAMES AND THEIR PASSWORDS ?? : There are four default Users
 4th user: Jeff Bezos ; [USERNAME: jb ; PASSWORD: 4444]<br>
 II] WHAT'S THE FUNCTION OF "TIMER" IN THIS APP ?? : <br>
 We have set the timer to 5min, that is we need to login again after 5 minutes of logging into any respective account.
-=> When we "request for loan" it is shown as a 'deposit'.
-=> When we "transfer amount" from any x account to y account, it is shown as 'withdrawal' in x account and 'deposit' in y account respectively.
-=> We can even "delete the account" by giving our credentials that is the username and password of any of the 4 accounts in their respective account, to get back the deleted account we need to refresh the page and login again.
-
+=> When we "request for loan" it is shown as a 'deposit'.<br>
+=> When we "transfer amount" from any x account to y account, it is shown as 'withdrawal' in x account and 'deposit' in y account respectively.<br>
+=> We can even "delete the account" by giving our credentials that is the username and password of any of the 4 accounts in their respective account, to get back the deleted account we need to refresh the page and login again.<br>
+<br>
 (This app was created on 24-01-2024)
