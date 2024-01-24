@@ -1,11 +1,11 @@
 # Bankist--App
-Created this "Bankist App" using HTML, CSS and JavaScript (NodeJs) with GUI using APIs. Bankist stands for 'minimalist banking'. It has online bank interface, and we can request for loan, transfer amount to other users and can also access i.e see the deposited amount in the respective account.
-I] HOW TO ACCESS USERNAMES AND THEIR PASSWORDS ?? : There are four default Users in our bank and they are:
+Created this "Bankist App" using HTML, CSS and JavaScript (NodeJs) with GUI using APIs. Bankist stands for 'minimalist banking'. It has online bank interface, and we can request for loan, transfer amount to other users and can also access i.e see the deposited amount in the respective account.<br>
+I] HOW TO ACCESS USERNAMES AND THEIR PASSWORDS ?? : There are four default Users in our bank and they are:<br>
 
-1st user: Satya Nadella ; [USERNAME: sn ; PASSWORD: 1111]
-2nd user: Sundar Pichai ; [USERNAME: sp ; PASSWORD: 2222]
-3rd user: David Solomon ; [USERNAME: ds ; PASSWORD: 3333]
-4th user: Jeff Bezos ; [USERNAME: jb ; PASSWORD: 4444]
+1st user: Satya Nadella ; [USERNAME: sn ; PASSWORD: 1111] <br>
+2nd user: Sundar Pichai ; [USERNAME: sp ; PASSWORD: 2222]<br>
+3rd user: David Solomon ; [USERNAME: ds ; PASSWORD: 3333]<br>
+4th user: Jeff Bezos ; [USERNAME: jb ; PASSWORD: 4444]<br>
 II] WHAT'S THE FUNCTION OF "TIMER" IN THIS APP ?? : <br>
 We have set the timer to 5min, that is we need to login again after 5 minutes of logging into any respective account.
 => When we "request for loan" it is shown as a 'deposit'.
